@@ -1,0 +1,50 @@
+##############
+#  NAME BIN  #
+##############
+
+solver/solver
+generator/generator
+generator/bonus/generator/generator
+solver/bonus/solver/solver
+tournament/tournament
+tournament/solver
+tournament/generator
+tournament/solver_bonus
+tournament/generator_bonus
+.vscode
+.idea
+maze.txt
+perf.data
+map_test
+.tmp
+
+###############
+#    FLAGS    #
+
+*.o
+*.~
+*.#
+*.a
+*.gch
+a.out
+.idea
+*.class
+*.dll
+*.exe
+
+############
+# Packages #
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+######################
+# Logs and databases #
+
+*.log
