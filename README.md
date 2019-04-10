@@ -28,7 +28,7 @@ The [perfect] argument make perfect maze.
 
 # Solver  
 
-We used A* algorithm for the pathfinding.  
+We used Dijkstra algorithm for the pathfinding.  
 To run solver:  
 ```cd solver ; make re ; ./solver [map]```  
 To run solver bonus:  
